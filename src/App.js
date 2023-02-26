@@ -2,7 +2,7 @@ import "./App.css";
 import Todolist from "./comp/Todolist";
 function App() {
   return (
-    <div className="App">
+    <div>
       <Todolist />
     </div>
   );
