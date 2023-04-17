@@ -30,9 +30,9 @@
   color: peru;
 }
 .list {
-  color: yellow;
+  color: black;
   overflow: hidden;
-  background-color: black;
+  background-color: orange;
   list-style-type: none;
 }
 .icon {
@@ -40,8 +40,7 @@
   padding: 30px;
 }
 .option {
-  height: 40px;
-  width: 60px;
-  background-color: lightgreen;
+  border: none;
   color: blue;
+  background-color: orange;
 }
